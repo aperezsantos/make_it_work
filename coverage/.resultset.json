@@ -241,13 +241,78 @@
       "/Users/aperezsantos/turing/2_mod/independent_challenges/make_it_work/config/routes.rb": {
         "lines": [
           1,
+          1,
           null,
+          1,
           null
         ]
       },
       "/Users/aperezsantos/turing/2_mod/independent_challenges/make_it_work/app/helpers/application_helper.rb": {
         "lines": [
           1,
+          null
+        ]
+      },
+      "/Users/aperezsantos/turing/2_mod/independent_challenges/make_it_work/spec/features/project_show_page_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          0,
+          null,
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/aperezsantos/turing/2_mod/independent_challenges/make_it_work/spec/models/challenge_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          null,
           null
         ]
       },
@@ -344,8 +409,32 @@
           1,
           null
         ]
+      },
+      "/Users/aperezsantos/turing/2_mod/independent_challenges/make_it_work/app/controllers/contestants_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/aperezsantos/turing/2_mod/independent_challenges/make_it_work/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/aperezsantos/turing/2_mod/independent_challenges/make_it_work/app/controllers/projects_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1589555643
+    "timestamp": 1589561846
   }
 }
